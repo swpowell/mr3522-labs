@@ -6,3 +6,4 @@ dependencies:
   - matplotlib
   - ipywidgets
   - netcdf4
+  - boto3
