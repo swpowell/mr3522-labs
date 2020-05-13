@@ -1,0 +1,8 @@
+name: mr3522
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - netcdf4
